@@ -5,7 +5,7 @@
 </template>
 
 <script type="text/ecmascript-6">
-console.log(11)
+console.log(12)
 </script>
 
 <style lang="stylus" rel="stylesheet/stylus">
