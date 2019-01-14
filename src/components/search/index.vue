@@ -6,7 +6,7 @@
 
 <script type="text/ecmascript-6">
 
-console.log（33)
+console.log(33)
 
 </script>
 
